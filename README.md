@@ -67,5 +67,6 @@ All of these design patterns are applicable to each scenario
 
 ### Activity 4
 Attendence: Nathan, Marcelo, Kai
+
 [Proposal Form Link](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0)
 
