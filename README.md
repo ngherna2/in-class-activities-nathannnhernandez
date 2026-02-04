@@ -59,6 +59,9 @@ If I were to make a project like this I would keep the code mostly the same. I c
 ### Activity 2
 The model part is represented by the enemystats and itemdemo scripts. The player script represents the control, and the view part is represented by the dialogue displayed on screen.
 
-
-
+### Activity 3
+All of these design patterns are applicable to each scenario
+  1. A finite state machine can be used before and after the player clicks the assigned button to determine when the beat must be hit relative to the timing in the song.
+  2. A model view controller is relevent to a team shooter because the model is the weapon and ability stats, the controller would be carrying out the abilities, and the view would be the UI used       for activiating abilities
+  3. State can be useful for the mining and planting behaviours because they can determine what state the player is in currently.
 
