@@ -65,3 +65,7 @@ All of these design patterns are applicable to each scenario
   2. A model view controller is relevent to a team shooter because the model is the weapon and ability stats, the controller would be carrying out the abilities, and the view would be the UI used       for activiating abilities
   3. State can be useful for the mining and planting behaviours because they can determine what state the player is in currently.
 
+### Activity 4
+Attendence: Nathan, Marcelo, Kai
+[Proposal Form Link](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0)
+
