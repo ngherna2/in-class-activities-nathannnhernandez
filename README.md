@@ -52,6 +52,10 @@ The locator objects should be destroyed, so that only one singleton remains
 ### Activity 3
 [Commit link...I wasnt able to actually do anything becaause I was having some troubles but I was able to create the project](https://github.com/UCI-GDIM32-W25/HW4/commit/54ec6fb1cf3f3f8b12fdb57de159f5532a4b8870)
 
+## W4
+### Activity 1
+If I were to make a project like this I would keep the code mostly the same. I can access the IBreakable interface which allows me to manage weapon durability systems. From here I can individually assign stats to the child classes themseleves, which allows similar behaviour but dissimilar characteristics. This is especially helpful for unbreakable items, as I have the choice to avoid inherenting from IBreakable completely, without interferring with the parent class. This simplifies the elven sword class greatly, making the code cleaner and easier to read. Items, being an abstract class, allows me to do most of the coding from the child classes to generate specific behaviour. Because some characteristics of the item classes are shared unilaterally among child classes, it might be worth it to consider replacing the abstract class with one that houses more concrete behaviours.
+
 
 
 
