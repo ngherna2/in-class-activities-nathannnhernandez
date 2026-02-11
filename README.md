@@ -52,7 +52,7 @@ The locator objects should be destroyed, so that only one singleton remains
 ### Activity 3
 [Commit link...I wasnt able to actually do anything becaause I was having some troubles but I was able to create the project](https://github.com/UCI-GDIM32-W25/HW4/commit/54ec6fb1cf3f3f8b12fdb57de159f5532a4b8870)
 
-## W4
+## W5
 ### Activity 1
 If I were to make a project like this I would keep the code mostly the same. I can access the IBreakable interface which allows me to manage weapon durability systems. From here I can individually assign stats to the child classes themseleves, which allows similar behaviour but dissimilar characteristics. This is especially helpful for unbreakable items, as I have the choice to avoid inherenting from IBreakable completely, without interferring with the parent class. This simplifies the elven sword class greatly, making the code cleaner and easier to read. Items, being an abstract class, allows me to do most of the coding from the child classes to generate specific behaviour. Because some characteristics of the item classes are shared unilaterally among child classes, it might be worth it to consider replacing the abstract class with one that houses more concrete behaviours.
 
@@ -69,4 +69,17 @@ All of these design patterns are applicable to each scenario
 Attendence: Nathan, Marcelo, Kai
 
 [Proposal Form Link](https://docs.google.com/document/d/1IXMcedZDubU3jHOIg-ZRwtj0N-xMFaV7MpOOSQTA65Q/edit?tab=t.0)
+
+## W6
+### Activity 1
+Gizmos: Our game is going to have platforming elements, which means that colliders are going to be a significant component. Using Gizmos can help indicate issues regarding kinematics and the interactions between game object colliders.
+
+Unity Profiler: Because we are going to be using free assets, its important that we are aware of GPU usage. By using the profiler, we can identify the causes of frame drops and other performance issues stemming from assets.
+
+Break Points: Break points can be helpful for any Unity project. As beginner programs, we make many errors. For more complex systems such as Inheritence, there are multiple interacting classes, and therefore more potential causes of any particular bug.Using break points, we can quickly identify the root cause of a bug. 
+
+Merging: For the most part our group is inexperienced with GitHub, aside from what we have learned in 31 and 32. Understanding how to correct merging errors will be vital in our development process, as we are surely going to run into repository-related issues.
+
+### Activity 2
+Nathan Hernandez, Marcelo Thomas Esposo Tolosa, Kai Meng (came late due to game dev week)
 
