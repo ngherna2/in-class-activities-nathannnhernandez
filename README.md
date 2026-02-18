@@ -90,5 +90,12 @@ Nathan Hernandez, Marcelo Thomas Esposo Tolosa, Kai Meng (came late due to game 
 - ray cast often times cannot vertically detect obstacles
 - use sphereccast to detect objects not detected by ray cast
 - state machine for pursuit and wandering states
-- 
+
+### Activity 2
+Kai, Marcelo, Nathan
+
+### Activity 3
+
+
+### Activity 4
 
