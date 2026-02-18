@@ -95,7 +95,7 @@ Nathan Hernandez, Marcelo Thomas Esposo Tolosa, Kai Meng (came late due to game 
 Kai, Marcelo, Nathan
 
 ### Activity 3
-
+![IMG_0245](https://github.com/user-attachments/assets/36745548-e26e-46b0-8353-f98f16c2efc8)
 
 ### Activity 4
-
+[Trello Board Link](https://trello.com/b/SrpWWxTm/in-too-deep?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite)
