@@ -83,3 +83,12 @@ Merging: For the most part our group is inexperienced with GitHub, aside from wh
 ### Activity 2
 Nathan Hernandez, Marcelo Thomas Esposo Tolosa, Kai Meng (came late due to game dev week)
 
+## W7
+### Activity 1
+- raycast is used for line of sight
+- physics.raycast used in code to create and modify the attributes of raycast
+- ray cast often times cannot vertically detect obstacles
+- use sphereccast to detect objects not detected by ray cast
+- state machine for pursuit and wandering states
+- 
+
