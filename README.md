@@ -99,3 +99,12 @@ Kai, Marcelo, Nathan
 
 ### Activity 4
 [Trello Board Link](https://trello.com/b/SrpWWxTm/in-too-deep?utm_source=eval-email&utm_medium=email&utm_campaign=board-invite)
+
+## W8
+### Activity 1
+- altering already rendered objects to improve their visual appearence
+- effects, colors, retouching
+- using a color filter can make a game more visually cohesive (color grading inspector)
+- make sure that effects work with rendering pipeline
+
+### Activity 3
