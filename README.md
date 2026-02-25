@@ -107,4 +107,5 @@ Kai, Marcelo, Nathan
 - using a color filter can make a game more visually cohesive (color grading inspector)
 - make sure that effects work with rendering pipeline
 
-### Activity 3
+### Activity 2
+ Kai Meng, Marcelo Thomas Espinosa Tolosa, Nathan Hernandez
