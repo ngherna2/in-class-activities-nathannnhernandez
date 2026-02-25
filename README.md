@@ -109,3 +109,11 @@ Kai, Marcelo, Nathan
 
 ### Activity 2
  Kai Meng, Marcelo Thomas Espinosa Tolosa, Nathan Hernandez
+
+### Activity 3
+Kai:
+I did not say anything to the playtesters at first, and they did not know that you could charge your character's jump. After telling them, they
+found the mechanic to be difficult yet enjoyable. While the movement mechanic is still WIP, it seems to be working well. 
+Around 50% of the playtesters' jumps resulted in their death, but they gradually decreased their margin of error. They encountered a bug where
+the player can indefinitely suspend themselves in midair if colliding with the side of a platform. Playtesters suggested that the player should be 
+able to move while falling -- it would make the game more forgiving.
