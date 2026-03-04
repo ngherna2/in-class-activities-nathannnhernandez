@@ -137,3 +137,4 @@ Recommendations: Lower camera sensitivity, introduce mechanics slowly over time,
 All that’s left for me to do is to finish the rest of the level, which I am on pace to do.
 
 ### Activity 5
+[Repaired spawn mechanics](https://github.com/lindenreid/GDIM32-Final/commit/c3b27300a54e85a2e360a0dcaafd645ebe554ead)
