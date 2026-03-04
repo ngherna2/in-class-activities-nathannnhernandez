@@ -117,3 +117,23 @@ found the mechanic to be difficult yet enjoyable. While the movement mechanic is
 Around 50% of the playtesters' jumps resulted in their death, but they gradually decreased their margin of error. They encountered a bug where
 the player can indefinitely suspend themselves in midair if colliding with the side of a platform. Playtesters suggested that the player should be 
 able to move while falling -- it would make the game more forgiving.
+
+## W9
+### Activity 1
+An architectural solution scales well if it is performant and easy to use while handling lots of data
+Scaling matters as a gdim major because all larger games are going to need to scale well
+Overall a major theme of 32 is that there are ways to make code scale better
+Scriptable objects turn code into data that can be altered easily, great for complex dialogue systems
+
+### Activity 2
+Attendence: Kai + Nate
+
+### Activity 3
+Playtest Notes
+How was the movement? The jumping and platforming overall were addicting.
+Recommendations: Lower camera sensitivity, introduce mechanics slowly over time, introduce a jump force indicator 
+
+### Activity 4
+All that’s left for me to do is to finish the rest of the level, which I am on pace to do.
+
+### Activity 5
